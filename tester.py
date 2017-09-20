@@ -16,7 +16,7 @@ reload(sys)
 sys.setdefaultencoding('utf-8')
 
 helpMessage =""" Chivas Bot
-[Id︎]
+a[Id︎]
 [Mid]
 [Me︎]
 [List Group]
